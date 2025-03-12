@@ -1,6 +1,6 @@
 # odin-recipes
 
-Hi My Name is Kynsai
+Hi My Name is Kyn
 This is My first Odin Project.
 
-In this project I will just using pure Html.
+In this project I will be just using pure Html.
